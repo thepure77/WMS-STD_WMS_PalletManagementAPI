@@ -1,0 +1,12 @@
+PalletmanageAPI/bin/
+PalletmanageAPI/obj/
+PalletmanageBusiness/bin/
+PalletmanageBusiness/obj/
+PalletmanageDataAccess/bin/
+PalletmanageDataAccess/obj/
+
+.vs/PalletmanageAPI/DesignTimeBuild/.dtbcache
+.vs/PalletmanageAPI/v15/Server/sqlite3/db.lock
+.vs/PalletmanageAPI/v15/Server/sqlite3/storage.ide
+.vs/PalletmanageAPI/v15/Server/sqlite3/storage.ide-shm
+.vs/PalletmanageAPI/v15/Server/sqlite3/storage.ide-wal

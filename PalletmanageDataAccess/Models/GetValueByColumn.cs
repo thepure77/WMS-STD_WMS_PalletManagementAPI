@@ -1,0 +1,20 @@
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace DataAccess.Models.Utils
+{
+    public partial class GetValueByColumn
+    {
+        [Key]
+        [StringLength(2000)]
+        public string dataincolumn1 { get; set; }
+        [StringLength(2000)]
+        public string dataincolumn2 { get; set; }
+        [StringLength(2000)]
+        public string dataincolumn3 { get; set; }
+        [StringLength(2000)]
+        public string dataincolumn4 { get; set; }
+        [StringLength(2000)]
+        public string dataincolumn5 { get; set; }
+
+    }
+}
